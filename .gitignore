@@ -1,0 +1,12 @@
+node_modules/
+dist/
+.env
+.env.*
+.prisma/
+pnpm-lock.yaml
+coverage/
+logs/
+*.log
+.DS_Store
+.idea/
+.vscode/
